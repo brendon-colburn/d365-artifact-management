@@ -1,0 +1,11 @@
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\obj\Debug\MCS.ArtifactManagement.csproj.CoreCompileInputs.cache
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\bin\Debug\MCS.ArtifactManagement.dll
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\bin\Debug\MCS.ArtifactManagement.pdb
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\bin\Debug\Microsoft.IdentityModel.dll
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\obj\Debug\MCS.ArtifactManagement.csproj.CopyComplete
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\obj\Debug\MCS.ArtifactManagement.dll
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\obj\Debug\MCS.ArtifactManagement.pdb
+C:\OJP\CRM-OVC-ITVERP\MCS.ArtifactManagement\MCS.ArtifactManagement\obj\Debug\MCS.ArtifactManagement.csprojAssemblyReference.cache
