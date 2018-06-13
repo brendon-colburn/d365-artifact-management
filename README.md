@@ -7,7 +7,7 @@ The Artifact Management Solution is an add-on feature to Dynamics 365 Customer E
 For the latest stable version:
 
 ```bash
-Import _ArtifactManagemnt_1_0_0_1.zip from Releases folder into desired D365 CE Org
+Import _ArtifactManagemnt_1_0_0_1.zip from the Releases folder into the desired Dynamics 365 Customer Engagement Organization
 ```
 
 ## Configuration
