@@ -13,3 +13,15 @@ Import _ArtifactManagemnt_1_0_0_1.zip from releases folder into desired D365 CE 
 ## Configuration
 
 Please refer to the [Wiki](https://github.com/brendon-colburn/d365-artifact-management/wiki) for details regarding configuration of the Artifact Management Solution
+
+## Contribute
+
+There are many ways to contribute to Artifact Management.
+
+* [Submit bugs](https://github.com/brendon-colburn/d365-artifact-management/issues) and help us verify fixes as they are checked in.
+* Call to action: Form JavaScript/TypeScript solution that populates the artifact rule form fields with a dynamic picklist of appropriate options.
+* Call to action: A solution that automatically creates the necessary relationships and sdk message processing steps for a new entity (*see [Configuration for New Entities on the Wiki](wiki/Configuration-for-New-Entities)*)
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see 
+the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) 
+with any additional questions or comments.
