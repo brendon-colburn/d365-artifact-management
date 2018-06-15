@@ -21,7 +21,7 @@ There are many ways to contribute to Artifact Management.
 * [Submit bugs](https://github.com/brendon-colburn/d365-artifact-management/issues) and help us verify fixes as they are checked in.
 * **Call to action:** Form JavaScript/TypeScript solution that populates the artifact rule form fields with a dynamic picklist of appropriate options.
 * **Call to action:** A solution that automatically creates the necessary relationships and sdk message processing steps for a new entity (*see [Configuration for New Entities on the Wiki](https://github.com/brendon-colburn/d365-artifact-management/wiki/Configuration-for-New-Entities)*)
-* Last but not least, please feel free to fork this for your own solutions.  As you come up with improvements reach out and we may add you as a contributor and merge parts of your branch to master.
+* As you come up with improvements in forked branches feel free to reach out and we may add you as a contributor and merge parts of your branch to master.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see 
 the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) 
